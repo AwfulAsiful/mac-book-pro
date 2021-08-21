@@ -1,0 +1,11 @@
+h5{
+    font-weight: 700;
+}
+h6{
+    font-weight: 700;
+}
+hr{
+    background-color:red;
+    border: solid 2px red;
+    width: 75%;
+}
